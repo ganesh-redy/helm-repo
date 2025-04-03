@@ -9,7 +9,7 @@ entries:
     name: java
     type: application
     urls:
-    - https://ganesh-redy.github.io/helm-repo/java-0.1.0.tgz
+    - https://ganesh-redy.github.io/helm-repo/java-python/java-0.1.0.tgz
     version: 0.1.0
   python:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: python
     type: application
     urls:
-    - https://ganesh-redy.github.io/helm-repo/python-0.1.0.tgz
+    - https://ganesh-redy.github.io/helm-repo/java-python/python-0.1.0.tgz
     version: 0.1.0
 generated: "2025-04-03T16:34:15.439688752+05:30"
