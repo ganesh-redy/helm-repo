@@ -1,0 +1,11 @@
+repositories:
+  - name: repo1
+    url: https://ganesh-redy.github.io/helm-repo/
+
+releases:
+  - name: app1
+    chart: repo1/java
+    installed: true
+  - name: app2
+    chart: repo1/python
+    installed: true

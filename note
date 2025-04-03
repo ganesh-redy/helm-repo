@@ -1,0 +1,10 @@
+step1
+after creating the helm dir
+
+helm package java
+
+helm package python
+
+# next
+move this to .tazg file to one dierctoty
+then create the index.yaml file
